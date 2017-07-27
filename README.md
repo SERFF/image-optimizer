@@ -1,5 +1,7 @@
 # Easily optimize images using PHP
 
+##Warning! This is just a php 5.6 version of spatie/image-optimizer
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/image-optimizer.svg?style=flat-square)](https://packagist.org/packages/spatie/image-optimizer)
 [![Build Status](https://img.shields.io/travis/spatie/image-optimizer/master.svg?style=flat-square)](https://travis-ci.org/spatie/image-optimizer)
 [![SensioLabsInsight](https://img.shields.io/sensiolabs/i/5e00b329-08b4-41c7-ba3b-2a3a2b2594f4.svg?style=flat-square)](https://insight.sensiolabs.com/projects/5e00b329-08b4-41c7-ba3b-2a3a2b2594f4)
